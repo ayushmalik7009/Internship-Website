@@ -10,31 +10,31 @@ const menuItems = [
   },
   {
     name: 'Q1',
-    href: '/One',
+    href: "/Internship-Website/One",
   },
   {
     name: 'Q2',
-    href: '/Two',
+    href: "/Internship-Website/Two",
   },
   {
     name: 'Q3',
-    href: '/Three',
+    href: '/Internship-Website/Three',
   },
   {
     name: 'Q4',
-    href: '/Four',
+    href: '/Internship-Website/Four',
   },
   {
     name: 'Q5',
-    href: '/Five',
+    href: '/Internship-Website/Five',
   },
   {
     name: 'Q6',
-    href: '/Six',
+    href: '/Internship-Website/Six',
   },
   {
     name: 'Q7',
-    href: '/Seven',
+    href: '/Internship-Website/Seven',
   },
 ]
 
