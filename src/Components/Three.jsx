@@ -13,7 +13,7 @@ export  function Q3() {
               <div className="mt-1 ml-4 text-base text-gray-600">
                 <p className="mt-7 text-lg font-semibold text-black">Languages:</p>
                 <ul className="list-disc pl-6 mt-2">
-                  <li>HTML</li>
+                  <li><span>HTML</span></li>
                   <li>CSS</li>
                   <li>JavaScript</li>
                   <li>Java</li>
