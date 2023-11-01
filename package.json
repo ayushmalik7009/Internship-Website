@@ -1,5 +1,6 @@
 {
   "name": "internship-website",
+  "homepage":"https://ayushmalik7009.github.io/Internship-Website/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +12,8 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.18.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
